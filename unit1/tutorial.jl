@@ -1,6 +1,6 @@
 # Julia tutorial scripts
 #
-# 20245by Ralf Herbrich
+# 2025 by Ralf Herbrich
 # Hasso-Plattner Institute
 
 """
